@@ -21,7 +21,7 @@ function percent(a){
 }
 
 function Logarif(a){
-    Math.log(a)
+   return Math.log(a)
 }
 
 function savedones(a, b){
